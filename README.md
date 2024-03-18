@@ -17,10 +17,6 @@ The library management system uses a binary search tree to store and retrieve in
 
 ![15](https://github.com/jose-ambrosioo/library_management_system/assets/59221796/01a95f06-aa10-4296-b8b6-ff624b37ed58)
 
-![13](https://github.com/jose-ambrosioo/library_management_system/assets/59221796/4e2b0d3d-b991-4a61-aece-702c1a6572e2)
-
-![14](https://github.com/jose-ambrosioo/library_management_system/assets/59221796/1b300f42-ba43-47d2-b960-6457d420856c)
-
 
 
 
